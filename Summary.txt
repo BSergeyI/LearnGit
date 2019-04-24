@@ -1,1 +1,6 @@
 Print("Summary of two branches")
+#Include < math.h >
+long int cube (int x)
+{
+return x *x *x;
+}
